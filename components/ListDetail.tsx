@@ -1,7 +1,5 @@
 import * as React from 'react'
-
-// @ts-ignore
-import { User } from '@interfaces'
+import { User } from 'interfaces'
 
 type ListDetailProps = {
   item: User

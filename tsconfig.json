@@ -2,9 +2,10 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
+      "interfaces/*": ["interfaces/*"],
       "@components/*": ["components/*"],
-      "@interfaces/*": ["interfaces/*"],
-      "@utils/*": ["utils/*"]
+      "@utils/*": ["utils/*"],
+      "@repository/*": ["repository/*"]
     },
     "allowJs": true,
     "alwaysStrict": true,

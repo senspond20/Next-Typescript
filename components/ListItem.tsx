@@ -1,8 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-// @ts-ignore
-import { User } from '@interfaces'
+import { User } from 'interfaces'
 // import { User } from '../interfaces'
 
 type Props = {
