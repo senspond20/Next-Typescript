@@ -3,9 +3,9 @@
     "baseUrl": "./",
     "paths": {
       "interfaces/*": ["interfaces/*"],
+      "repository/*": ["repository/*"],
       "@components/*": ["components/*"],
       "@utils/*": ["utils/*"],
-      "@repository/*": ["repository/*"]
     },
     "allowJs": true,
     "alwaysStrict": true,

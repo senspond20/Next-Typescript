@@ -15,5 +15,4 @@ const List = ({ items }: Props) => (
     ))}
   </ul>
 )
-
 export default List
